@@ -31,7 +31,7 @@ A simple web application that provides users with a joke based on their name. En
 
 1. Clone the repository:
    ```bash:
-   git clone https://github.com/yourusername/joke-website.git
+   git clone https://github.com/mohammed-btoosh/joke.git
 2. Navigate to the project directory:
     cd joke-website
 3. Install dependencies:
