@@ -9,7 +9,7 @@ A simple web application that provides users with a joke based on their name. En
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Acknowledgments] (#acknowledgments)
+- [Acknowledgments](#acknowledgments)
 - [License](#license)
 
 ## Features
