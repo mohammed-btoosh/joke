@@ -30,14 +30,14 @@ A simple web application that provides users with a joke based on their name. En
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```bash:
    git clone https://github.com/yourusername/joke-website.git
 2. Navigate to the project directory:
     cd joke-website
 3. Install dependencies:
     npm install
 4. Start the server:
-    nodemon index.js
+    node  index.js
 5. Open your browser and go to http://localhost:3000 to view the application.
 
 ## Usage
