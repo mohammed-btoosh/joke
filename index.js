@@ -22,7 +22,6 @@ app.post("/joke", async (req, res) => {
     const name = req.body.name;
     const result = await axios.get(apiUrl);
     const content = result.data;
-    console.log(content);
     res.render("index.ejs", { content, name });
   } catch (error) {
     console.log("Error: ", error.message);
