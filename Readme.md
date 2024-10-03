@@ -37,7 +37,7 @@ A simple web application that provides users with a joke based on their name. En
 3. Install dependencies:
     npm install
 4. Start the server:
-    npm start
+    nodemon index.js
 5. Open your browser and go to http://localhost:3000 to view the application.
 
 ## Usage
